@@ -1,0 +1,23 @@
+Dear Hiring Manager,
+I am excited to apply for the Technical Writer position, bringing a rich blend of AI/ML expertise, impactful project experience, and a passion for creating compelling technical content. With a strong background in delivering real-world solutions and a proven track record of excellence in competitive environments, I am eager to contribute to your organization by crafting insightful and engaging resources that connect with diverse audiences.
+Professional Experience
+I have had the privilege of working in various roles that bridge technical innovation and effective communication:
+AI Engineer at Zyngate: Currently leading the development of an AI-powered system that automates the job application process. This innovative solution collects job postings based on user preferences and applies for them autonomously, revolutionizing job-seeking workflows with seamless automation.
+AI Engineer: Designed and implemented LegalGPT, a Retrieval-Augmented Generation (RAG) system that leverages vector search technologies for precise legal document retrieval, significantly improving workflow efficiency.
+Data Engineer: Developed an automated pipeline to process email-based updates, reducing manual effort and streamlining data management workflows.
+AI Trainer and Prompt Engineer: Trained predictive models, optimized datasets for enhanced accuracy, and engineered effective prompts for large language models to achieve specific outcomes.
+Key Projects
+StatIQ: Designed a business intelligence automation platform that integrates advanced large language models to automate workflows, from data cleaning to creating dynamic dashboards.
+DermaAI: Developed an AI-powered dermatology application utilizing computer vision to diagnose skin conditions, promoting early detection and improving accessibility.
+Honors & Awards
+Top 10 - Google Hack4Change: Led the team to 6th place out of 6,200 participants by architecting a Business Intelligence Automation solution using Llama 3.1.
+Top 10 - OpenHack 2024 (IISc): Directed the team to 5th place out of 1,300 teams in the finals with FinHelp, a project demonstrating expertise in GenAI and data analysis.
+Technical Writing Passion
+Beyond my technical expertise, I am deeply passionate about sharing knowledge and making complex ideas accessible. Whether it’s explaining AI-powered solutions like LegalGPT or detailing business intelligence automation tools like StatIQ, I thrive on creating engaging content that informs and inspires. I am confident in my ability to contribute impactful blogs, articles, and thought leadership pieces that highlight your organization’s innovations.
+Why Me?
+With a unique combination of technical skills, competitive achievements, and a commitment to clear communication, I am confident in my ability to contribute significantly to your team. I look forward to bringing my expertise and passion to your organization and collaborating to produce content that educates and empowers.
+Thank you for considering my application. I would be delighted to discuss how my experiences and accomplishments align with your vision. Please feel free to contact me at your convenience.
+Best regards,
+Rupin Ajay
+Email: rupinajay@gmail.com
+Github: github.com/rupinajay | +91 8248863436

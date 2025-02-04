@@ -1,0 +1,10 @@
+selenium
+beautifulsoup4
+pandas
+pyautogui
+pyyaml
+groq
+pypdf2
+python-docx
+webdriver_manager
+lxml

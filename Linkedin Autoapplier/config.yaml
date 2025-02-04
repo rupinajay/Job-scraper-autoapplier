@@ -1,0 +1,132 @@
+# LinkedIn Credentials
+username: ""
+password: ""  # Replace with your actual LinkedIn password
+
+# API Keys
+groq_api_key: "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"  # Replace with your actual Groq API key
+
+application_limits:
+  daily: 50
+  weekly: 150
+  monthly: 500
+  per_search: 10
+  delay_between_applications: 30 
+  
+# Job Search Parameters
+positions:
+  - "Software Engineer"
+  - "Python Developer"
+  - "AI Developer"
+  - "Machine Learning Engineer"
+  - "Data Engineer"
+
+locations:
+  - "Chennai, Tamil Nadu, India"
+  - "Bangalore, Karnataka, India"
+  - "Remote"
+  - "Hybrid"
+
+experience_level:
+  - "Entry Level"
+  - "Internship"
+  - "Associate"
+
+job_types:
+  - "Full-time"
+  - "Remote"
+  - "Hybrid"
+  - "Internship"
+
+date_posted: "r604800"  # Past week
+
+# Application Limits
+max_daily_applications: 50
+max_weekly_applications: 150
+
+# File Paths
+uploads:
+  Resume: "/Users/rupinajay/Developer/Job Scraper/Rupin Resume AI Intern.pdf"  # Update with actual path
+  Cover Letter: "/Users/rupinajay/Developer/Job Scraper/cover_letter.txt"  # Update with actual path
+
+# Personal Information
+phone_number: "+918248863436"
+email: "rupinajay@gmail.com"
+location: "Chennai, Tamil Nadu, India"
+
+# Education
+education:
+  university: "Shiv Nadar University Chennai"
+  degree: "B.Tech Computer Science and Engineering"
+  gpa: "8.3"
+  graduation_year: "2026"
+
+# Preferences
+salary_range:
+  min: 600000  # 6 LPA
+  max: 2000000  # 20 LPA
+work_location_preference: "hybrid"
+
+# Skills to highlight
+key_skills:
+  technical:
+    - "Python"
+    - "AI"
+    - "Machine Learning"
+    - "FastAPI"
+    - "Django"
+    - "Docker"
+    - "SQL"
+    - "Selenium"
+    - "AWS"
+    - "RAG"
+    - "LLM"
+    - "Deep Learning"
+    - "NLP"
+  databases:
+    - "MySQL"
+    - "MongoDB"
+    - "PostgreSQL"
+    - "PineconeDB"
+    - "Qdrant"
+    - "MilvusDB"
+
+# Keywords for job search
+required_keywords:
+  - "python"
+  - "AI"
+  - "machine learning"
+  - "data"
+  - "software"
+  - "developer"
+  - "engineer"
+
+# Avoid senior positions
+keyword_blacklist:
+  - "senior"
+  - "principal"
+  - "lead"
+  - "manager"
+  - "10+ years"
+  - "15+ years"
+  - "architect"
+
+# Experience details for auto-fill
+experience:
+  current_company: "Zyngate"
+  current_position: "Software Engineer Intern"
+  total_years: "1"
+
+# Additional Settings
+application_preferences:
+  preferred_companies:
+    - "Google"
+    - "Microsoft"
+    - "Amazon"
+    - "Intel"
+    - "Cisco"
+  industries:
+    - "Technology"
+    - "Software Development"
+    - "Artificial Intelligence"
+    - "Data Science"
+    - "Machine Learning"
