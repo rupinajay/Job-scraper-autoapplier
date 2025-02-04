@@ -1,1 +1,1 @@
-# LinkdinAutomation
+# LinkedinAutomation
